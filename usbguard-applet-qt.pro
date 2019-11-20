@@ -1,0 +1,15 @@
+CONFIG += qt
+QT += core widgets
+LIBS += -lusbguard
+SOURCES += DeviceDialog.cpp
+SOURCES += DeviceModel.cpp
+SOURCES += MainWindow.cpp
+SOURCES += SessionBlocker.cpp
+SOURCES += TargetDelegate.cpp
+SOURCES += main.cpp
+HEADERS += DeviceDialog.h
+HEADERS += DeviceModel.h
+HEADERS += MainWindow.h
+HEADERS += SessionBlocker.h
+HEADERS += TargetDelegate.h
+RESOURCES += usbguard-applet-qt.qrc

@@ -1,0 +1,8 @@
+*.o
+*.ui.h
+usbguard-applet-qt
+moc_*
+Makefile
+.deps
+.qmake.stash
+qrc_*.cpp

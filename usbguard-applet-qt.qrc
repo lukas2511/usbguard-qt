@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="usbguard-icon-inactive.svg">resources/usbguard-icon-inactive.svg</file>
+<file alias="usbguard-icon.svg">resources/usbguard-icon.svg</file>
+<file alias="usbguard-icon-warning.svg">resources/usbguard-icon-warning.svg</file>
+</qresource>
+</RCC>
